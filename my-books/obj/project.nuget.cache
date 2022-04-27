@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "P7/gY5Q7zF+xUMquLsAWLRqOJ5i+H6GxVvtgZfmh8/WmvGMXehmOyGT6O1TT1HOkyaUEtv9HYtxmTO/Dn153dg==",
+  "dgSpecHash": "oTsf+7/qO2ZOigiai4zpORZbsZ8BMbRUgse29VMkd6LCz7aaDUigjSAPk3bB9tyxtDbA52kpUH5EOdXrEko1oQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\orlsa\\source\\repos\\my-books\\my-books\\my-books.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\orlsa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\orlsa\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\orlsa\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\orlsa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\orlsa\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\orlsa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\orlsa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
