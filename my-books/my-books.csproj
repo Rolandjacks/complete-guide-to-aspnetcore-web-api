@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>my_books</RootNamespace>
+    <UserSecretsId>dac9c220-c9d6-491f-aca4-646948668b7e</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

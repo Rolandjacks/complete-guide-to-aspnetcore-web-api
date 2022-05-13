@@ -24,7 +24,7 @@ namespace my_books.Controllers
             }
             catch (System.Exception)
             {
-                return BadRequest("Could not load logs from tthe database");
+                return BadRequest("Could not load logs from the database");
             }
         }
     }
